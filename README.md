@@ -1,12 +1,11 @@
 # AirBoneRadio
-AirBoneRadio is a lightweight, complete self-hosted internet radio management system designed to replicate core features of larger platforms while maintaining minimal resource usage and sleek modular design.
-
-  Lightweight radio automation system
-  24/7 AutoDJ streaming
-  Simple web-based control panel
-  Optimized for low-resource VPS
+AirBoneRadio is a lightweight, complete self-hosted internet radio management system designed to replicate core features of larger platforms while maintaining minimal resource usage and sleek modular design intended for 24/7 AutoDJ streaming with Simple web-based control panel Optimized for low-resource VPS.
 
 No heavy frameworks - No built-in transcoding engine - No clustering 
+
+What's under the hood?
+-   Minimalist design
+-   Fast loading
 
 Core Features
 
@@ -17,6 +16,12 @@ Core Features
 -   Now Playing & Listener Stats
 -   Basic Scheduling (cron)
 -   User Authentication
+  
+AirBoneRadio - Software & Services
+-   Lighttpd: Web server for control panel	80
+-   PHP-FPM: PHP processing for web app
+-   Icecast2: Streaming server 8000
+-   Liquidsoap: AutoDJ / Audio processing	Background
   
 How it works now:
 
@@ -34,5 +39,8 @@ How to install
 -   chmod +x setup.sh
 -   sudo ./setup.sh
 
-
+Access Points
+Control Panel: http://localhost/radio/
+Stream URL: http://localhost:8000/stream
+Icecast Admin: http://localhost:8000/admin
 Enjoy!
