@@ -27,9 +27,12 @@ Default: MP3 @ 128 kbps
 
 How to install 
 
-sudo apt update
-sudo apt install git -y
-git clone https://github.com/tchovi/AirBoneRadio.git
-cd AirBoneRadio
-chmod +x setup.sh
-sudo ./setup.sh
+-   sudo apt update
+-   sudo apt install git -y
+-   git clone https://github.com/tchovi/AirBoneRadio.git
+-   cd AirBoneRadio
+-   chmod +x setup.sh
+-   sudo ./setup.sh
+
+
+Enjoy!
