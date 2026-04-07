@@ -1,9 +1,7 @@
 # AirBoneRadio
-AirBoneRadio is a lightweight, complete self-hosted internet radio management system designed to replicate core features of larger platforms while maintaining minimal resource usage and sleek modular design intended for 24/7 AutoDJ streaming with Simple web-based control panel Optimized for low-resource VPS.
+AirBoneRadio is a lightweight, complete self-hosted internet radio management system designed to replicate core features of larger platforms while maintaining minimal resource usage and sleek modular design intended for 24/7 AutoDJ streaming with Simple, beautiful Neon Orange and Lime Green web-based interface which allows you to Broadcast your music to the world with AutoDJ, playlists, and real-time streaming via the control panel Optimized for low-resource VPS. 
 
 No heavy frameworks - No built-in transcoding engine - No clustering 
-
-A lightweight internet radio management system with a beautiful Neon Orange and Lime Green interface. Broadcast your music to the world with AutoDJ, playlists, and real-time streaming.
 
 ## Features
 
