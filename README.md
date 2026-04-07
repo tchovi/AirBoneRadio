@@ -40,7 +40,9 @@ How to install
 -   sudo ./setup.sh
 
 Access Points
-Control Panel: http://localhost/radio/
-Stream URL: http://localhost:8000/stream
-Icecast Admin: http://localhost:8000/admin
+-   Control Panel: http://localhost/radio/
+-   Stream URL: http://localhost:8000/stream
+-   Icecast Admin: http://localhost:8000/admin
+
+   
 Enjoy!
