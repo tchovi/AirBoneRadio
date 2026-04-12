@@ -246,3 +246,8 @@ For issues and feature requests, please use the GitHub Issues page.
 ---
 
 **Made with ❤️ for internet radio broadcasters** Enjoy!
+Try it before you install it http://airbone.mooo.com/radio/index.php
+Admin Credentials:
+  Username: admin
+  Password: 6rl2EsQKEfNq
+
