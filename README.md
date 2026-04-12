@@ -8,7 +8,7 @@ No heavy frameworks - No built-in transcoding engine - No clustering
 - **Media Library** - Upload and manage your music collection (MP3, OGG, FLAC, WAV, M4A)
 - **Playlist Management** - Create, edit, and organize playlists
 - **AutoDJ** - Automatic playback with playlist rotation
-- **Multiple Broadcast Formats** - MP3, AAC, OGG Vorbis, Opus, FLAC
+- **Multiple Broadcast Formats** - MP3, AAC, OGG Vorbis
 - **Configurable Bitrate** - 64 to 320 kbps options
 - **Web Player** - Built-in audio player with live visualization
 - **Listener Statistics** - Real-time listener count
@@ -58,7 +58,7 @@ After installation, access:
 ```
 lighttpd, php-fpm, php-sqlite3, php-xml, php-json,
 sqlite3, icecast2, liquidsoap, ffmpeg, curl, wget,
-apache2-utils
+icecast2, liquidsoap, ffmpeg, fdkaac, liquidsoap-plugin-fdkaac
 ```
 
 ## Usage
@@ -93,8 +93,6 @@ apache2-utils
 | MP3 | .mp3 | Most compatible, recommended |
 | AAC | .aac | Better quality at lower bitrates |
 | OGG | .ogg | Open source, good quality |
-| Opus | .opus | Low latency, excellent quality |
-| FLAC | .flac | Lossless, larger file size |
 
 ### Bitrate Options
 
